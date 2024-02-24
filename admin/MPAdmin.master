@@ -1,0 +1,86 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MPAdmin.master.cs" Inherits="admin_MPAdmin" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="./img/icon.jpg">
+    <title>Yönetim Paneli</title>
+    <link href="./css/bootstrap.min.css" rel="stylesheet">
+    <link href="./css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+    <link href="./css/dashboard.css" rel="stylesheet">
+
+    <script src="./css/ie-emulation-modes-warning.js"></script>
+
+ 
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <nav class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                        <span class="sr-only"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="#">Yönetim Paneli</a>
+
+
+
+                </div>
+                <div id="navbar" class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li><a href="#"> <asp:Literal ID="ltrKullanici" runat="server"></asp:Literal></a></li>
+                    
+                    </ul>
+                   
+                </div>
+            </div>
+        </nav>
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-sm-3 col-md-2 sidebar">
+                    <ul class="nav nav-sidebar">
+                        <li id="anasayfa" runat="server"><a href="default.aspx">Ana Sayfa</a></li>
+                        <li id="hakkimda" runat="server"><a href="ahakkimda.aspx">Hakkımda</a></li>
+                        <li id="kategori" runat="server"><a href="akategori.aspx">Kategoriler</a></li>
+                        <li id="aurunler" runat="server"><a href="aurunler.aspx">Ürünler</a></li>
+                        <li id="magazaSaat" runat="server"><a href="amagazaSaat.aspx">Mağaza Saatleri </a></li>
+                        <li id="magaza" runat="server"><a href="amagaza.aspx">Mağaza</a></li>
+                        <li id="kullanici" runat="server"><a href="kullanici.aspx">Kullanıcılar</a></li>
+                        <li id="ailetisimFormu" runat="server"><a href="ailetisimFormu.aspx">İletişim Formu</a></li>
+                        <li>
+                            <asp:LinkButton ValidationGroup="v" ID="LBtnCikis" runat="server" OnClick="LBtnCikis_Click">Çıkış</asp:LinkButton></li>
+                    </ul>
+
+                </div>
+
+                <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </div>
+            </div>
+        </div>
+
+        <!-- Bootstrap core JavaScript
+    ================================================== -->
+        <!-- Placed at the end of the document so the pages load faster -->
+        <script src="./css/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+        <script src="./css/bootstrap.min.js"></script>
+        <!-- Just to make our placeholder images work. Don't actually copy the next line! -->
+        <script src="./css/holder.min.js"></script>
+        <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+        <script src="./css/ie10-viewport-bug-workaround.js"></script>
+    </form>
+</body>
+</html>

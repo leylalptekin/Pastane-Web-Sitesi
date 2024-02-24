@@ -1,0 +1,68 @@
+﻿.sayfalama{text-align:center;}
+
+.Sayfalama a{
+    display: inline-block;
+    text-align: center;
+    text-decoration:none;
+    height: 34px;
+    width: 34px;
+    color: #888;
+    line-height: 33px;
+    border: 1px solid #eee;
+    border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -o-border-radius: 2px;
+    transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -webkit-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;}
+
+.Sayfalama a:active{ background-color:#003399;}
+
+.Sayfalama a:link, .Sayfalama a:visited 
+
+{    display: inline-block;
+    text-align: center;
+    height: 34px;
+    width: 34px;
+    color: #888;
+    line-height: 33px;
+    border: 1px solid #eee;
+    border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -o-border-radius: 2px;
+    transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -webkit-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;}
+
+.Sayfalama a:hover{border-color: #ddd;}
+
+ .Sayfalama INPUT{    width: auto;
+    padding: 0 14px;}
+    
+    
+    /*Aktif sayfa*/
+.Sayfalama B{
+    display: inline-block;
+    text-align: center;
+    height: 34px;
+    width: 34px;
+    color: #FFF;
+    background-color:#337ab7;
+    line-height: 33px;
+    border: 1px solid #eee;
+    border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -o-border-radius: 2px;
+    transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -webkit-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;}
+.Sayfalama span{
+    width: auto;
+    padding: 0 5px;
+}
