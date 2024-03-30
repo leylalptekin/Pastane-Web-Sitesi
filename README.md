@@ -1,3 +1,5 @@
+![Databrick project with Snowflake](https://i.pinimg.com/originals/aa/60/c0/aa60c09fc4454d0e6930748ce00de198.png)
+
 
 1.1	Projenin Amacı 
 
@@ -19,11 +21,13 @@ Projenin kapsamı web sitesi aracılığıyla pasta,çikolata,makaron,tatlı-tuz
 •	Pasta Satış Sistemi tasarlamak 
 
 1.3 Proje Hakkında
+
 Şilo Bacı web sitesi projesi, müşterilere çevrimiçi olarak erişilebilir ve kullanıcı dostu bir platform sunmayı amaçlamaktadır. Bu platform, müşterilerin pastane ürünlerini keşfetmelerini, sipariş vermelerini ve özel taleplerde bulunmalarını sağlayacak şekilde tasarlanmıştır.
 
 Bu proje, Şilo Bacı gibi geleneksel bir işletmenin dijital varlığını güçlendirmeyi hedefler. Web sitesi, fiziksel mağaza ziyaretleri öncesinde müşterilere ürün yelpazesini ve hizmetleri hakkında bilgi verirken, çevrimiçi sipariş imkanı sunarak kullanıcıların zamanlarını daha verimli kullanmalarına yardımcı olur.
 
 1.4 Kullanılan Araçlar
+
  •	Visual Studio
  •	Asp.Net
  •	Html
@@ -31,6 +35,8 @@ Bu proje, Şilo Bacı gibi geleneksel bir işletmenin dijital varlığını gü�
  •	My sql
 
  1.5 Arayüz
+  
+  
   ![Databrick project with Snowflake](https://i.pinimg.com/originals/82/c9/57/82c957bf9a37ec8611e85a6d45e3b66d.png)
 
  ![Databrick project with Snowflake](https://i.pinimg.com/originals/f2/d2/72/f2d27281f35d05402e57287774e6743a.png)
