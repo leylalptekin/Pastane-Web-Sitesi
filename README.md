@@ -27,7 +27,7 @@ Projenin kapsamı web sitesi aracılığıyla pasta,çikolata,makaron,tatlı-tuz
 
 Bu proje, Şilo Bacı gibi geleneksel bir işletmenin dijital varlığını güçlendirmeyi hedefler. Web sitesi, fiziksel mağaza ziyaretleri öncesinde müşterilere ürün yelpazesini ve hizmetleri hakkında bilgi verirken, çevrimiçi sipariş imkanı sunarak kullanıcıların zamanlarını daha verimli kullanmalarına yardımcı  olur.
 
-1.4 Kullanılan Araçlar
+1.4 Kullanılan  Araçlar
 
  •	Visual Studio
  •	Asp.Net
