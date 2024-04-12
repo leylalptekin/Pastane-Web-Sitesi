@@ -18,7 +18,7 @@ Projenin kapsamı web sitesi aracılığıyla pasta,çikolata,makaron,tatlı-tuz
 •	Bu sistem verilen geri bildirim ile kendini eğitebilmeye hazır olmalıdır(Yapay Zeka). 
 
 •	Pasta seçenekleri için özellik tanımlaması
-
+ 
 •	Pasta Satış Sistemi tasarlamak 
 
 1.3 Proje Hakkında
