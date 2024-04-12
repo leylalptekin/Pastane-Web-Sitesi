@@ -25,7 +25,7 @@ Projenin kapsamı web sitesi aracılığıyla pasta,çikolata,makaron,tatlı-tuz
 
 Şilo Bacı web sitesi projesi, müşterilere çevrimiçi olarak erişilebilir ve kullanıcı dostu bir platform sunmayı amaçlamaktadır. Bu platform, müşterilerin pastane ürünlerini keşfetmelerini, sipariş vermelerini ve özel taleplerde bulunmalarını sağlayacak şekilde  tasarlanmıştır.
 
-Bu proje, Şilo Bacı gibi geleneksel bir işletmenin dijital varlığını güçlendirmeyi hedefler. Web sitesi, fiziksel mağaza ziyaretleri öncesinde müşterilere ürün yelpazesini ve hizmetleri hakkında bilgi verirken, çevrimiçi sipariş imkanı sunarak kullanıcıların zamanlarını daha verimli kullanmalarına yardımcı olur.
+Bu proje, Şilo Bacı gibi geleneksel bir işletmenin dijital varlığını güçlendirmeyi hedefler. Web sitesi, fiziksel mağaza ziyaretleri öncesinde müşterilere ürün yelpazesini ve hizmetleri hakkında bilgi verirken, çevrimiçi sipariş imkanı sunarak kullanıcıların zamanlarını daha verimli kullanmalarına yardımcı  olur.
 
 1.4 Kullanılan Araçlar
 
