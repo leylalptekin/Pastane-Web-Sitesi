@@ -1,7 +1,7 @@
 ![Databrick project with Snowflake](https://i.pinimg.com/originals/aa/60/c0/aa60c09fc4454d0e6930748ce00de198.png)
 
 
-1.1	Projenin Amacı 
+1.1	Projenin  Amacı 
 
  Projenin ilk amacı kardeşimin hayalini gerçekleştirmek için atılan ilk adım olmak.Asıl amacı pastane ürünlerinin tanıtıldığı,pastane yöneticileriyle müşterisini sosyal mesafenin de ötesinde online ortamda sağlıklı bir şekilde buluşturmaktır.Müşterinin dükkana gelmeden ürünleri görmesi,seçimini yapması veya kendi tasarımını oluşturarak sipariş vermesini mümkün kılan zamandan ve sağlığımızı korumayı,kazanmayı amaçlayarak web sitesi oluşturmaktır.Bu sistem pasta satış tanımlanmasında kullanıcıya  yardımcı olacaktır.
 
