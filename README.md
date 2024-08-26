@@ -9,7 +9,7 @@
 
 Projenin kapsamı web sitesi aracılığıyla pasta,çikolata,makaron,tatlı-tuzlu kurabiyeler,lokumlar,ekmekler ve kahve çeşitlerini dükkana gelmeden internet üzerinden  müşteriye tanıtımının yapılmasıdır.İnternet sitesi üzerinden müşteri fiyat ve çeşit bilgisine sahip olacaktır.İsterse site üzerinden sipariş oluşturabilecektir.Olmayan bir pasta için kendi tasarımını oluşturabilecektir.Kahve de gel-al servisi olduğundan gelmeden önce siparişini oluşturarak dükkanda bekleme süresini en aza indirecektir.Böylelikle hem sağlığımızı koruyup hem de ağzımızı şenlendireceğiz..Kısaca özetlersek;
 
-•	 Bu projenin temel amacı web tabanlı bir Pasta Satış Sistemi uygulaması geliştirmektir.  
+•	 Bu projenin temel amacı web tabanlı bir Pasta Satış Sistemi uygulaması geliştirmektir.   
 
 •	Bu sistem pasta satış tanımlanmasında kullanıcıya yardımcı olacaktır. 
 
