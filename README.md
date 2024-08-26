@@ -5,7 +5,7 @@
 
  Projenin ilk amacı kardeşimin hayalini gerçekleştirmek için atılan ilk adım olmak.Asıl amacı pastane ürünlerinin tanıtıldığı,pastane yöneticileriyle müşterisini sosyal mesafenin de ötesinde online ortamda sağlıklı bir şekilde buluşturmaktır.Müşterinin dükkana gelmeden ürünleri görmesi,seçimini yapması veya kendi tasarımını oluşturarak sipariş vermesini mümkün kılan zamandan ve sağlığımızı korumayı,kazanmayı amaçlayarak web sitesi oluşturmaktır.Bu sistem pasta satış tanımlanmasında kullanıcıya  yardımcı olacaktır.
   
-1.2	Projenin  Kapsamı    
+1.2	Projenin  Kapsamı     
 
 Projenin kapsamı web sitesi aracılığıyla pasta,çikolata,makaron,tatlı-tuzlu kurabiyeler,lokumlar,ekmekler ve kahve çeşitlerini dükkana gelmeden internet üzerinden  müşteriye tanıtımının yapılmasıdır.İnternet sitesi üzerinden müşteri fiyat ve çeşit bilgisine sahip olacaktır.İsterse site üzerinden sipariş oluşturabilecektir.Olmayan bir pasta için kendi tasarımını oluşturabilecektir.Kahve de gel-al servisi olduğundan gelmeden önce siparişini oluşturarak dükkanda bekleme süresini en aza indirecektir.Böylelikle hem sağlığımızı koruyup hem de ağzımızı şenlendireceğiz..Kısaca özetlersek;
 
